@@ -1,4 +1,4 @@
-# Sentiment Analysis App
+# Twitter Sentiment Analysis 
 
 ## Overview
 This project is a **Sentiment Analysis App** that classifies user-input text as either **positive, negative, or neutral** using a pre-trained machine learning model. 
